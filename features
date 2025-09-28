@@ -1,0 +1,6 @@
+Add something in the ui to indicate that the first user that connected is waiting
+Add Some text to let the player know what pieces they should play with
+When game ends show it on th ui
+Add Drag and Drop features
+Add validation on the frontend
+add timer to both players

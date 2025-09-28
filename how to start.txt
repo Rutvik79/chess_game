@@ -1,0 +1,22 @@
+1. start backend 
+    move to backend dir
+    build the code then run the code
+    tsc -b 
+    node dist/index.js
+
+
+2. start frontend
+    move to frontend dir
+    execute the dev script
+    npm run dev
+
+
+how to play
+    open 2 tabs in the browser
+    click the play online button on both tabs
+    once you are navigated to the game page
+    you can click the play button
+    you will be connected to a game
+    check the console as to find out which player you are(will fix this soon)
+    if white start game
+    if black wait for first move
